@@ -3,7 +3,7 @@
 快速收藏夹可以保存常用的文件和文件夹路径、网页地址、常用输入文本、AI 提示词（Prompt）及本地 Skill 入口，并按当前使用的程序显示对应收藏。点击条目即可打开目标、输入文字或调用 Skill；Prompt 和 Skill 可附加参考图片，悬停查看。
 ## 下载与启动
 
-[下载](https://github.com/RainskyCG/SceneFavorites/releases/tag/v0.1.0-preview) · [所有版本](https://github.com/RainskyCG/SceneFavorites/releases)
+[下载](https://github.com/RainskyCG/SceneFavorites/releases/tag/v0.1.0) · [所有版本](https://github.com/RainskyCG/SceneFavorites/releases)
 
 下载 Release 中的 ZIP，解压到可写文件夹，运行 **SceneFavorites.exe**，无需安装 Quicker。关闭窗口后程序仍留在托盘，可右键退出。
 
@@ -77,6 +77,4 @@ Quicker版安装动作后点击呼出，可右键>信息>设置快捷键，自�
 
 ## 系统要求
 
-Windows 10 / 11，.NET Framework 4.7.2 或更高版本。程序未签名。
-
-本仓库提供程序和使用说明，不含个人数据、完整源码或 Quicker 动作安装包。图标来源：[Icons8](https://icons8.com/)。
+Windows 10 / 11，.NET Framework 4.7.2 或更高版本。

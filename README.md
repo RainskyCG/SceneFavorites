@@ -3,15 +3,15 @@
 快速收藏夹可以保存常用的文件和文件夹路径、网页地址、常用输入文本、AI 提示词（Prompt）及本地 Skill 入口，并按当前使用的程序显示对应收藏。点击条目即可打开目标、输入文字或调用 Skill；Prompt 和 Skill 可附加参考图片，悬停查看。
 ## 下载与启动
 
-[下载便携版](https://github.com/RainskyCG/SceneFavorites/releases/tag/v0.1.0-preview) · [所有版本（含预览版）](https://github.com/RainskyCG/SceneFavorites/releases)
+[下载](https://github.com/RainskyCG/SceneFavorites/releases/tag/v0.1.0-preview) · [所有版本](https://github.com/RainskyCG/SceneFavorites/releases)
 
 下载 Release 中的 ZIP，解压到可写文件夹，运行 **SceneFavorites.exe**，无需安装 Quicker。关闭窗口后程序仍留在托盘，可右键退出。
 
-当前发布为预览版，请从“所有版本”下载。Quicker 动作暂未在此仓库发布，下面标注 Quicker 的功能仅适用于动作版。
+Quicker 动作暂未在此仓库发布，下面标注 Quicker 的功能仅适用于动作版。
 
 
 ![](_assets/image-20261101-131344-igg47b.jpg)
-本地便携版默认快捷键 Ctrl + Shift + Q 呼出，可在场景设置中修改
+默认快捷键 Ctrl + Shift + Q 呼出，可在场景设置中修改
 Quicker版安装动作后点击呼出，可右键>信息>设置快捷键，自定义快捷键。
 
 启动场景默认为全局，添加场景后会自动切换为当前进程场景，弹窗左上角场景可以切换场景，通过钉固按钮固定。
@@ -61,7 +61,7 @@ Quicker版安装动作后点击呼出，可右键>信息>设置快捷键，自�
 
 ### 外观设置
  ![](_assets/image-20261101-124037-owpqpn.jpg)
-调整主题、界面缩放和紧凑模式；便携版可设置唤出快捷键。
+调整主题、界面缩放和紧凑模式；程序可设置唤出快捷键。
 
 
 ## 备份和迁移
@@ -73,10 +73,10 @@ Quicker版安装动作后点击呼出，可右键>信息>设置快捷键，自�
 
 **Skill 文件不打包。** 换电脑后自行复制 Skill，并按需修改路径。
 
-便携版的数据保存在程序同目录的 `data/`。移动整个程序文件夹可保留数据；更新程序时保留该目录。
+收藏数据保存在程序同目录的 `data/`。移动整个程序文件夹可保留数据；更新程序时保留该目录。
 
 ## 系统要求
 
-Windows 10 / 11，.NET Framework 4.7.2 或更高版本。当前便携版未签名。
+Windows 10 / 11，.NET Framework 4.7.2 或更高版本。程序未签名。
 
-本仓库提供便携版和使用说明，不含个人数据、完整源码或 Quicker 动作安装包。图标来源：[Icons8](https://icons8.com/)。
+本仓库提供程序和使用说明，不含个人数据、完整源码或 Quicker 动作安装包。图标来源：[Icons8](https://icons8.com/)。
